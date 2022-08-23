@@ -1,10 +1,9 @@
 # Rebooting the Web of Trust
 
-**Rebooting the Web of Trust** empowers individuals to co-create decentralized systems for lasting mutual benefit. This is done through virtual salons and design workshops where we make statements, collectively author papers, and write code to support the next generation of the decentralized internet.
-
 <img align="left" src="https://www.weboftrust.info/assets/images/rwot-logo.png" width=300>
 
-<br><br><br>
+**Rebooting the Web of Trust** empowers individuals to co-create decentralized systems for lasting mutual benefit. This is done through virtual salons and design workshops where we make statements, collectively author papers, and write code to support the next generation of the decentralized internet.
+
 * To read more about RWOT, [**browse our website**](https://www.weboftrust.info/about/).
 * To learn how RWOT works, [**visit the RWOT library**](https://www.weboftrust.info/library/).
 * To join our next event, [**see the events page**](https://www.weboftrust.info/events/).
