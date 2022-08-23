@@ -4,6 +4,7 @@
 
 <img align="left" src="https://www.weboftrust.info/assets/images/rwot-logo.png" width=300>
 
+<br><br><br>
 * To read more about RWOT, [**browse our website**](https://www.weboftrust.info/about/).
 * To learn how RWOT works, [**visit the RWOT library**](https://www.weboftrust.info/library/).
 * To join our next event, [**see the events page**](https://www.weboftrust.info/events/).
