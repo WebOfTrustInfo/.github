@@ -6,7 +6,7 @@
 
 * To read more about RWOT, [**browse our website**](https://www.weboftrust.info/about/).
 * To learn how RWOT works, [**visit the RWOT library**](https://www.weboftrust.info/library/).
-* To join our next event, [**see the events page**](https://www.weboftrust.info/events/).
-* To work on the current event, [**go to the RWOT11 Repo**](https://github.com/WebOfTrustInfo/rwot11-the-hague).
-* To read about current topics, [**peruse the RWOT11 Advance Reading directory**](https://github.com/WebOfTrustInfo/rwot11-the-hague/tree/master/advance-readings#readme).
+* To join our next event, [**see up on Eventbrite**](https://www.eventbrite.com/e/rebooting-the-web-of-trust-12-2023-cologne-tickets-597232116337).
+* To work on the current event, [**go to the RWOT12 Repo**](https://github.com/WebOfTrustInfo/rwot12-cologne).
+* To read about current topics, [**peruse the RWOT12 Advance Reading directory**](https://github.com/WebOfTrustInfo/rwot12-cologne/advance-readings#readme).
 * To review our past papers, [**scan the Papers page**](https://www.weboftrust.info/papers/).
